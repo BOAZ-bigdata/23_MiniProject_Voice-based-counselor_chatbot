@@ -1,3 +1,30 @@
+### 23 Mini Project: **Voice-based-counselor_chatbot**
+
+- **Usage**: 
+  - [ ] Session
+  - [ ] Conference
+  - [x] Mini projects
+  - [ ] Study
+
+- **Period**:  
+  - 2024.11 ~ 2024.12
+
+- **Team**:  
+  - **Team Manager**: 김동환
+  - **Team Members**: 김윤주, 김현석, 김윤희, 이재욱
+
+- **Project Summary**:  
+  - 음성 기반 상담사 챗봇
+  - SER(fine-tuning 진행하여 HuggingFace 등록, Inference API 이용)
+  - RAG(보건복지부 질병 문서 등록, 챗봇이 문서 기반 응답)
+  - Prompting(상담사의 페르소나 부여)
+  - Streamlit으로 구현
+
+
+
+---
+
+
 
 # SER-Chatbot (Speech Emotion Recognition Chatbot)
 
